@@ -12,6 +12,8 @@ Online at [0hh1.com](http://0hh1.com)
 
 [Android](https://play.google.com/store/apps/details?id=com.q42.ohhi)
 
+[Ubuntu Phone](https://uappexplorer.com/app/0hh1.askhat)
+
 [Windows Phone](http://www.windowsphone.com/s?appid=0846c771-cc12-484e-8cc3-ac2287534f63)
 
 [Windows](http://apps.microsoft.com/windows/en-us/app/0h-h1/eb180cfb-b377-4270-98c5-c01ab313c85e)
